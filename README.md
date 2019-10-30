@@ -1,6 +1,8 @@
 # object-detection-examples
-Object detection small example projects using only OpenCV on python and no ML and Deep Learning.(space,space)
-This includes a few object detection projects that I made during my (currently ongoing) process of learning Computer Vision. All the current projects are only made using OpenCV on python and no ML and/or Deep Learning is invloved. (space,space)
+Object detection small example projects using only OpenCV on python and no ML and Deep Learning.
+
+This includes a few object detection projects that I made during my (currently ongoing) process of learning Computer Vision. All the current projects are only made using OpenCV on python and no ML and/or Deep Learning is invloved.
+
 Projects in this repository:
 >colour_ball.py: This program tracks any coloured ball (currently tuned to red) from a webcam input stream. Refer this project to understand concepts of object detection which uses thresholding, morphology, contours, polygon approximation, etc. It's a basic method that I figured from refering different sources of which I'll list down the ones I links for in the reference section below. Also, check out Hough Circles to detect circular objects. I have not tried to implement it but it could be useful for people trying to work mainly with circular objects. Watershed is another very interesting algorithm and I'd advice people to check it out. I did try implementing it initially but I was not able to implement it in a way that would/could provide better results for the program so I decided to omit it from the code. Would appreciate if someone can share sources and/or implementation to explain rightly execute it in a beneficial way (especially with respect to this program). I will link the sources I refered to in the reference section below. 
 
